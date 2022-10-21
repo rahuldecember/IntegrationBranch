@@ -1,6 +1,5 @@
 package com.eneff.branch.example.android;
 
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -9,12 +8,7 @@ import android.widget.Toast;
 
 
 import org.jetbrains.annotations.Nullable;
-import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
-
-
-import java.util.Iterator;
 
 import androidx.appcompat.app.AppCompatActivity;
 import io.branch.referral.Branch;
